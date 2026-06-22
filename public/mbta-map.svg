@@ -1,0 +1,714 @@
+<svg width="2041" height="1781" viewBox="0 0 2041 1781" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="2041" height="1781" fill="#1E1E1E"/>
+<g id="mbta-map">
+<rect width="2041" height="1781" fill="#FDFCF7"/>
+<g id="Water">
+<path d="M457.896 534.438C455.288 535.076 453.155 535.5 451.5 535.5C453.302 535.156 455.471 534.789 457.896 534.438C471.052 531.22 496.28 522.564 533 535.5C577 551 630 518 685.5 523C741 528 830 507.5 841 566C849.8 612.8 844.667 643.833 841 653.5C842.833 682.333 856.6 740 897 740C937.4 740 1014.17 702.333 1047.5 683.5L1150 612L1201.5 551C1205.17 545.833 1219 535.5 1245 535.5C1277.5 535.5 1266 495 1386.5 523C1409.83 502.167 1452 455.5 1434 435.5C1411.5 410.5 1320 380.5 1341.5 368C1358.7 358 1355.33 342.167 1351.5 335.5L1296.5 328L1285.5 274C1265 277.667 1225 279.3 1229 256.5C1233 233.7 1230.67 212 1229 204L1245 256.5L1303 274V311.5L1361.5 328V368L1419 399.5C1437 405.667 1480 418 1508 418C1531.71 418 1548.99 416.394 1560.47 413.027L1598 375.5C1592.67 383.5 1580.2 401 1573 407C1570.1 409.42 1565.94 411.424 1560.47 413.027L1538 435.5C1522.67 432.167 1492 429 1492 443C1492 460.5 1473.5 456 1477 489.5C1479.8 516.3 1478.17 531.333 1477 535.5L1448 551V582C1463 589.167 1494.5 611.5 1500.5 643.5C1508 683.5 1524.5 677 1552 677C1574 677 1575.17 709.667 1573 726L1598 763.5L1687 802.5L1726 826C1722.17 792.667 1722 726 1752 726C1789.5 726 1848.5 760 1846 711C1843.5 662 1847.5 653.5 1811 653.5C1774.5 653.5 1733.5 650.5 1738.5 612C1742.5 581.2 1764.17 539.833 1774.5 523L1717 499.5L1678.5 566C1660.33 552.833 1625.3 522.8 1630.5 508C1635.7 493.2 1675.33 475.167 1694.5 468C1712.83 467.5 1754.5 468.8 1774.5 478C1794.5 487.2 1798.83 511.833 1798.5 523L1786 566C1793.83 573.833 1813.8 589.5 1831 589.5C1848.2 589.5 1987.17 651.167 1993 677V1425.5C1968.83 1428 1795.2 1428.5 1786 1410.5C1776.8 1392.5 1742.17 1403 1726 1410.5C1713 1402.67 1687 1384.5 1687 1374.5C1687 1364.5 1649.33 1358.67 1630.5 1357C1625.5 1356 1615.5 1350.8 1615.5 1338C1615.5 1322 1580.5 1286 1598 1282C1615.5 1278 1658 1290 1662 1266.5C1666 1243 1662 1242.5 1662 1231.5C1662 1220.5 1653 1197 1630.5 1200.5C1612.5 1203.3 1584.67 1226.67 1573 1238C1575.67 1233.83 1575.2 1225 1552 1223C1528.8 1221 1519.67 1241.17 1518 1251.5L1528 1304.5C1516 1309.33 1492 1322.8 1492 1338C1492 1353.2 1484.33 1372.67 1480.5 1380.5L1448 1357L1434 1380.5V1398L1379 1425.5L1419 1380.5L1448 1323L1468 1338L1492 1304.5C1495.83 1294.33 1501.2 1272.5 1492 1266.5C1480.5 1259 1484 1223 1459 1223C1439 1223 1434 1195.33 1434 1181.5L1470.5 1175.5C1476.33 1170.83 1484 1158 1468 1144C1448 1126.5 1426 1143.5 1459 1115.5C1485.4 1093.1 1509.33 1082.5 1518 1080C1538 1061.67 1585.5 1026 1615.5 1030C1645.5 1034 1670.5 1029.5 1702 1025L1714 1006L1711 981.5C1713.33 978.667 1713.3 971.7 1694.5 966.5C1675.7 961.3 1653.33 952.667 1644.5 949H1500.5L1518 927.5H1630.5V887.5L1477 811L1419 787.5C1424 742.333 1432.5 647 1426.5 627C1419 602 1440 587.5 1419 566C1402.2 548.8 1373.67 544.5 1361.5 544.5C1339.67 537.333 1293.9 527.3 1285.5 544.5C1277.1 561.7 1255 566 1245 566L1185 612V653.5C1134 690.167 1027.3 763.5 1008.5 763.5C989.7 763.5 943.333 756.833 922.5 753.5L849.5 733.5C841.667 705.5 827.5 646.5 833.5 634.5C839.5 622.5 836 583.833 833.5 566C829.333 560.173 806.2 545.916 747 535.5C687.8 525.084 644.667 537.16 630.5 544.5L572 551C553.833 548 514.3 540.699 501.5 535.5C490.735 531.127 470.727 532.577 457.896 534.438Z" fill="#DBE8EF"/>
+<path d="M221.5 551C249.333 544 311.8 531.1 339 535.5C373 541 441.5 535.5 451.5 535.5M451.5 535.5C461.5 535.5 489 520 533 535.5C577 551 630 518 685.5 523C741 528 830 507.5 841 566C849.8 612.8 844.667 643.833 841 653.5C842.833 682.333 856.6 740 897 740C937.4 740 1014.17 702.333 1047.5 683.5L1150 612L1201.5 551C1205.17 545.833 1219 535.5 1245 535.5C1277.5 535.5 1266 495 1386.5 523C1409.83 502.167 1452 455.5 1434 435.5C1411.5 410.5 1320 380.5 1341.5 368C1358.7 358 1355.33 342.167 1351.5 335.5L1296.5 328L1285.5 274C1265 277.667 1225 279.3 1229 256.5C1233 233.7 1230.67 212 1229 204L1245 256.5L1303 274V311.5L1361.5 328V368L1419 399.5C1437 405.667 1480 418 1508 418C1543 418 1564 414.5 1573 407C1580.2 401 1592.67 383.5 1598 375.5L1538 435.5C1522.67 432.167 1492 429 1492 443C1492 460.5 1473.5 456 1477 489.5C1479.8 516.3 1478.17 531.333 1477 535.5L1448 551V582C1463 589.167 1494.5 611.5 1500.5 643.5C1508 683.5 1524.5 677 1552 677C1574 677 1575.17 709.667 1573 726L1598 763.5L1687 802.5L1726 826C1722.17 792.667 1722 726 1752 726C1789.5 726 1848.5 760 1846 711C1843.5 662 1847.5 653.5 1811 653.5C1774.5 653.5 1733.5 650.5 1738.5 612C1742.5 581.2 1764.17 539.833 1774.5 523L1717 499.5L1678.5 566C1660.33 552.833 1625.3 522.8 1630.5 508C1635.7 493.2 1675.33 475.167 1694.5 468C1712.83 467.5 1754.5 468.8 1774.5 478C1794.5 487.2 1798.83 511.833 1798.5 523L1786 566C1793.83 573.833 1813.8 589.5 1831 589.5C1848.2 589.5 1987.17 651.167 1993 677V1425.5C1968.83 1428 1795.2 1428.5 1786 1410.5C1776.8 1392.5 1742.17 1403 1726 1410.5C1713 1402.67 1687 1384.5 1687 1374.5C1687 1364.5 1649.33 1358.67 1630.5 1357C1625.5 1356 1615.5 1350.8 1615.5 1338C1615.5 1322 1580.5 1286 1598 1282C1615.5 1278 1658 1290 1662 1266.5C1666 1243 1662 1242.5 1662 1231.5C1662 1220.5 1653 1197 1630.5 1200.5C1612.5 1203.3 1584.67 1226.67 1573 1238C1575.67 1233.83 1575.2 1225 1552 1223C1528.8 1221 1519.67 1241.17 1518 1251.5L1528 1304.5C1516 1309.33 1492 1322.8 1492 1338C1492 1353.2 1484.33 1372.67 1480.5 1380.5L1448 1357L1434 1380.5V1398L1379 1425.5L1419 1380.5L1448 1323L1468 1338L1492 1304.5C1495.83 1294.33 1501.2 1272.5 1492 1266.5C1480.5 1259 1484 1223 1459 1223C1439 1223 1434 1195.33 1434 1181.5L1470.5 1175.5C1476.33 1170.83 1484 1158 1468 1144C1448 1126.5 1426 1143.5 1459 1115.5C1485.4 1093.1 1509.33 1082.5 1518 1080C1538 1061.67 1585.5 1026 1615.5 1030C1645.5 1034 1670.5 1029.5 1702 1025L1714 1006L1711 981.5C1713.33 978.667 1713.3 971.7 1694.5 966.5C1675.7 961.3 1653.33 952.667 1644.5 949H1500.5L1518 927.5H1630.5V887.5L1477 811L1419 787.5C1424 742.333 1432.5 647 1426.5 627C1419 602 1440 587.5 1419 566C1402.2 548.8 1373.67 544.5 1361.5 544.5C1339.67 537.333 1293.9 527.3 1285.5 544.5C1277.1 561.7 1255 566 1245 566L1185 612V653.5C1134 690.167 1027.3 763.5 1008.5 763.5C989.7 763.5 943.333 756.833 922.5 753.5L849.5 733.5C841.667 705.5 827.5 646.5 833.5 634.5C839.5 622.5 836 583.833 833.5 566C829.333 560.173 806.2 545.916 747 535.5C687.8 525.084 644.667 537.16 630.5 544.5L572 551C553.833 548 514.3 540.699 501.5 535.5C488.7 530.301 462.833 533.334 451.5 535.5Z" stroke="#DBE8EF" stroke-linecap="round"/>
+</g>
+<path id="water" d="M1655 965C1660.2 961.4 1689.83 974.5 1704 981.5C1706 982.476 1706.5 997.907 1706.5 1005.5C1703.67 1010 1694.1 1019.4 1678.5 1021C1659 1023 1655 1016.5 1649.5 1012.5C1644 1008.5 1639 998.5 1632 988.5C1625 978.5 1648.5 969.5 1655 965Z" fill="#DBE8EF" stroke="#DBE8EF" stroke-linecap="round"/>
+<g id="line-red">
+<path id="line-red-path" d="M1416.5 1208.5C1416.5 1092.51 1416.5 1027.49 1416.5 911.5L839 330" stroke="#C93C2B" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="stop-group-davis">
+<text id="label-davis" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="820.969" y="385.52">Davis</tspan></text>
+<circle id="stop-davis" cx="890" cy="381" r="5" fill="white"/>
+</g>
+<g id="stop-group-porter">
+<text id="label-porter" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="868.406" y="437.52">Porter</tspan></text>
+<circle id="stop-porter" cx="941" cy="433" r="5" fill="white"/>
+</g>
+<g id="stop-group-harvard">
+<text id="label-harvard" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="907.062" y="489.52">Harvard</tspan></text>
+<circle id="stop-harvard" cx="993" cy="485" r="5" fill="white"/>
+</g>
+<g id="stop-group-central">
+<text id="label-central" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="963.375" y="541.52">Central</tspan></text>
+<circle id="stop-central" cx="1044" cy="537" r="5" fill="white"/>
+</g>
+<g id="stop-group-kendall-mit">
+<text id="label-kendall-mit" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1010.12" y="593.52">Kendall/</tspan><tspan x="1040.44" y="611.52">MIT</tspan></text>
+<circle id="stop-kendall-mit" cx="1097" cy="589" r="5" fill="white"/>
+</g>
+<g id="stop-group-charles-mgh">
+<text id="label-charles-mgh" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1086.38" y="673.52">Charles/</tspan><tspan x="1108.66" y="691.52">MGH</tspan></text>
+<circle id="stop-charles-mgh" cx="1175" cy="669" r="5" fill="white"/>
+</g>
+<g id="stop-group-broadway">
+<circle id="stop-broadway" cx="1416.5" cy="1001" r="5" fill="white"/>
+<text id="label-broadway" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1437.5" y="1006.52">Broadway</tspan></text>
+</g>
+<g id="stop-group-andrew">
+<circle id="stop-andrew" cx="1416.5" cy="1067" r="5" fill="white"/>
+<text id="label-andrew" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1437.5" y="1072.52">Andrew</tspan></text>
+</g>
+<g id="stop-group-jfk-umass">
+<circle id="stop-jfk-umass" cx="1416.5" cy="1136" r="5" fill="white"/>
+<text id="label-jfk-umass" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1437.5" y="1141.52">JFK/UMass</tspan></text>
+</g>
+<g id="line-red-braintree">
+<path id="line-red-braintree-path" d="M1418 1210L1640 1432.86V1523" stroke="#C93C2B" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="stop-group-braintree">
+<circle id="stop-braintree" cx="1640" cy="1524" r="11" fill="white" stroke="#C93C2B" stroke-width="4"/>
+<g id="label-group-braintree">
+<text id="label-braintree" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1665" y="1531.71">BRAINTREE</tspan></text>
+<g id="label-red-line">
+<g clip-path="url(#clip0_0_1)">
+<path d="M1665 1551C1665 1544.37 1670.37 1539 1677 1539H1702C1708.63 1539 1714 1544.37 1714 1551V1551C1714 1557.63 1708.63 1563 1702 1563H1677C1670.37 1563 1665 1557.63 1665 1551V1551Z" fill="#C93C2B"/>
+<text id="RL" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1677.49" y="1557.21">RL</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g id="stop-group-north-quincy">
+<circle id="stop-north-quincy" cx="1498" cy="1290" r="5" fill="white"/>
+<text id="label-north-quincy" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1523" y="1294.52">North Quincy</tspan></text>
+</g>
+<g id="stop-group-wollaston">
+<circle id="stop-wollaston" cx="1541" cy="1334" r="5" fill="white"/>
+<text id="label-wollaston" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1566" y="1338.52">Wollaston</tspan></text>
+</g>
+<g id="stop-group-quincy-center">
+<circle id="stop-quincy-center" cx="1585" cy="1378" r="5" fill="white"/>
+<text id="label-quincy-center" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1607" y="1382.52">Quincy Center</tspan></text>
+</g>
+<g id="stop-group-quincy-adams">
+<circle id="stop-quincy-adams" cx="1638" cy="1432" r="5" fill="white"/>
+<text id="label-quincy-adams" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1663" y="1441.52">Quincy Adams</tspan></text>
+</g>
+</g>
+<g id="line-red-ashmont">
+<path id="line-red-ashmont-path" d="M1351 1412V1415V1279L1416.5 1208.5" stroke="#C93C2B" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="stop-group-ashmont">
+<circle id="stop-ashmont" cx="1351" cy="1412" r="11" fill="white" stroke="#C93C2B" stroke-width="4"/>
+<g id="label-group-ashmont">
+<text id="label-ashmont" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1376" y="1419.71">ASHMONT</tspan></text>
+<g id="label-red-line_2">
+<g clip-path="url(#clip1_0_1)">
+<path d="M1376 1439C1376 1432.37 1381.37 1427 1388 1427H1413C1419.63 1427 1425 1432.37 1425 1439V1439C1425 1445.63 1419.63 1451 1413 1451H1388C1381.37 1451 1376 1445.63 1376 1439V1439Z" fill="#C93C2B"/>
+<text id="RL_2" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1388.49" y="1445.21">RL</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g id="stop-group-savin-hill">
+<text id="label-savin-hill" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1263.25" y="1297.52">Savin Hill</tspan></text>
+<circle id="stop-savin-hill" cx="1351" cy="1293" r="5" fill="white"/>
+</g>
+<g id="stop-group-fields-corner">
+<text id="label-fields-corner" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1233.89" y="1337.52">Fields Corner</tspan></text>
+<circle id="stop-fields-corner" cx="1351" cy="1333" r="5" fill="white"/>
+</g>
+<g id="stop-group-shawmut">
+<text id="label-shawmut" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1263.27" y="1375.52">Shawmut</tspan></text>
+<circle id="stop-shawmut" cx="1351" cy="1371" r="5" fill="white"/>
+</g>
+</g>
+<g id="stop-group-alewife">
+<g id="label-group-alewife">
+<g id="label-red-line_3">
+<g clip-path="url(#clip2_0_1)">
+<path d="M767 330C767 323.373 772.373 318 779 318H804C810.627 318 816 323.373 816 330V330C816 336.627 810.627 342 804 342H779C772.373 342 767 336.627 767 330V330Z" fill="#C93C2B"/>
+<text id="RL_3" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="779.494" y="336.209">RL</tspan></text>
+</g>
+</g>
+<text id="label-alewife" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="733" y="362.709">ALEWIFE</tspan></text>
+</g>
+<circle id="stop-alewife" cx="837" cy="327" r="11" fill="white" stroke="#C93C2B" stroke-width="4"/>
+</g>
+</g>
+<g id="line-green">
+<g id="line-green-e">
+<path id="line-green-e-path" d="M1026 797.5C1011.83 798.5 983.5 808.4 983.5 840C983.5 871.6 988.999 910.119 975.499 923.619L682.118 1217" stroke="#42844E" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="stop-group-symphony">
+<text id="label-symphony" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="878.375" y="910.52">Symphony</tspan></text>
+<circle id="stop-symphony" cx="983" cy="905" r="5" fill="white"/>
+</g>
+<g id="stop-group-northeastern">
+<text id="label-northeastern" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="838.438" y="944.52">Northeastern</tspan></text>
+<circle id="stop-northeastern" cx="960" cy="939" r="5" fill="white"/>
+</g>
+<g id="stop-group-museum-of-fine-arts">
+<text id="label-museum-of-fine-arts" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="750.172" y="978.52">Museum of Fine Arts</tspan></text>
+<circle id="stop-museum-of-fine-arts" cx="926" cy="973" r="5" fill="white"/>
+</g>
+<g id="stop-group-longwood-medical-area">
+<text id="label-longwood-medical-area" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="691.078" y="1012.52">Longwood Medical Area</tspan></text>
+<circle id="stop-longwood-medical-area" cx="891" cy="1007" r="5" fill="white"/>
+</g>
+<g id="stop-group-brigham-circle">
+<text id="label-brigham-circle" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="724.016" y="1046.52">Brigham Circle</tspan></text>
+<circle id="stop-brigham-circle" cx="858" cy="1041" r="5" fill="white"/>
+</g>
+<g id="stop-group-fenwood-road">
+<text id="label-fenwood-road" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="704.203" y="1080.52">Fenwood Rd</tspan></text>
+<circle id="stop-fenwood-road" cx="824" cy="1075" r="5" fill="white"/>
+</g>
+<g id="stop-group-mission-park">
+<text id="label-mission-park" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="669.375" y="1114.52">Mission Park</tspan></text>
+<circle id="stop-mission-park" cx="790" cy="1109" r="5" fill="white"/>
+</g>
+<g id="stop-group-riverway">
+<text id="label-riverway" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="661.172" y="1148.52">Riverway</tspan></text>
+<circle id="stop-riverway" cx="756" cy="1143" r="5" fill="white"/>
+</g>
+<g id="stop-group-back-of-the-hill">
+<text id="label-back-of-the-hill" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="586.188" y="1182.52">Back of the Hill</tspan></text>
+<circle id="stop-back-of-the-hill" cx="722" cy="1177" r="5" fill="white"/>
+</g>
+<g id="stop-group-prudential">
+<text id="label-prudential" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="890.891" y="845.52">Prudential</tspan></text>
+<circle id="stop-prudential" cx="984" cy="841" r="5" fill="white"/>
+</g>
+<g id="stop-group-heath-street">
+<g id="lable-group-heath-street">
+<text id="label-heath-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="572.266" y="1226.71">HEATH ST</tspan></text>
+<g id="label-green-line-e">
+<g id="label-green-line">
+<g clip-path="url(#clip3_0_1)">
+<path d="M594 1247C594 1240.37 599.373 1235 606 1235H631C637.627 1235 643 1240.37 643 1247V1247C643 1253.63 637.627 1259 631 1259H606C599.373 1259 594 1253.63 594 1247V1247Z" fill="#42844E"/>
+<text id="GL" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="605.993" y="1253.21">GL</tspan></text>
+</g>
+</g>
+<g id="label-e">
+<path d="M649 1234C656.18 1234 662 1239.82 662 1247C662 1254.18 656.18 1260 649 1260C641.82 1260 636 1254.18 636 1247C636 1239.82 641.82 1234 649 1234Z" fill="#42844E"/>
+<path d="M649 1234C656.18 1234 662 1239.82 662 1247C662 1254.18 656.18 1260 649 1260C641.82 1260 636 1254.18 636 1247C636 1239.82 641.82 1234 649 1234Z" stroke="white" stroke-width="2"/>
+<text id="E" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="642.997" y="1253.21">E</tspan></text>
+</g>
+</g>
+</g>
+<circle id="stop-riverside" cx="682" cy="1219" r="11" fill="white" stroke="#42844E" stroke-width="4"/>
+</g>
+<path id="line-green-e-path_2" d="M1056.5 270.5L1252.5 466.5" stroke="#42844E" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="stop-group-medford-tufts">
+<g id="label-group-medford-tufts">
+<g id="label-green-line-e_2">
+<g id="label-green-line_2">
+<g clip-path="url(#clip4_0_1)">
+<path d="M990 182C990 175.373 995.373 170 1002 170H1027C1033.63 170 1039 175.373 1039 182V182C1039 188.627 1033.63 194 1027 194H1002C995.373 194 990 188.627 990 182V182Z" fill="#42844E"/>
+<text id="GL_2" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1001.99" y="188.209">GL</tspan></text>
+</g>
+</g>
+<g id="label-e_2">
+<path d="M1045 169C1052.18 169 1058 174.82 1058 182C1058 189.18 1052.18 195 1045 195C1037.82 195 1032 189.18 1032 182C1032 174.82 1037.82 169 1045 169Z" fill="#42844E"/>
+<path d="M1045 169C1052.18 169 1058 174.82 1058 182C1058 189.18 1052.18 195 1045 195C1037.82 195 1032 189.18 1032 182C1032 174.82 1037.82 169 1045 169Z" stroke="white" stroke-width="2"/>
+<text id="E_2" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1039" y="188.209">E</tspan></text>
+</g>
+</g>
+<text id="label-medford-tufts" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="960.953" y="214.709">MEDFORD/</tspan><tspan x="998.975" y="235.709">TUFTS</tspan></text>
+</g>
+<circle id="stop-medford-tufts" cx="1048" cy="261" r="11" fill="white" stroke="#42844E" stroke-width="4"/>
+</g>
+<g id="stop-group-ball-square">
+<text id="label-ball-square" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1006.27" y="305.52">Ball Sq</tspan></text>
+<circle id="stop-ball-square" cx="1086" cy="300" r="5" fill="white"/>
+</g>
+<g id="stop-group-magoun-square">
+<text id="label-magoun-square" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1013.11" y="343.52">Magoun Sq</tspan></text>
+<circle id="stop-magoun-square" cx="1124" cy="338" r="5" fill="white"/>
+</g>
+<g id="stop-group-gilman-square">
+<text id="label-gilman-square" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1058.25" y="381.52">Gilman Sq</tspan></text>
+<circle id="stop-gilman-square" cx="1162" cy="376" r="5" fill="white"/>
+</g>
+<g id="stop-group-east-somerville">
+<text id="label-east-somerville" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1059.78" y="419.52">East Somerville</tspan></text>
+<circle id="stop-east-somerville" cx="1200" cy="414" r="5" fill="white"/>
+</g>
+</g>
+<g id="line-green-d">
+<path id="line-green-d-path" d="M872 799L399 1272" stroke="#42844E" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="stop-group-fenway">
+<text id="label-fenway" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="730.938" y="860.52">Fenway</tspan></text>
+<circle id="stop-fenway" cx="816" cy="855" r="5" fill="white"/>
+</g>
+<g id="stop-group-longwood">
+<text id="label-longwood" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="679.094" y="894.52">Longwood</tspan></text>
+<circle id="stop-longwood" cx="782" cy="889" r="5" fill="white"/>
+</g>
+<g id="stop-group-brookline-village">
+<text id="label-brookline-village" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="600" y="928.52">Brookline Village</tspan></text>
+<circle id="stop-brookline-village" cx="748" cy="923" r="5" fill="white"/>
+</g>
+<g id="stop-group-brookline-hills">
+<text id="label-brookline-hills" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="583.547" y="962.52">Brookline Hills</tspan></text>
+<circle id="stop-brookline-hills" cx="714" cy="957" r="5" fill="white"/>
+</g>
+<g id="stop-group-beaconsfield">
+<text id="label-beaconsfield" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="559.328" y="996.52">Beaconsfield</tspan></text>
+<circle id="stop-beaconsfield" cx="680" cy="991" r="5" fill="white"/>
+</g>
+<g id="stop-group-reservoir">
+<text id="label-reservoir" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="548.5" y="1030.52">Reservoir</tspan></text>
+<circle id="stop-reservoir" cx="646" cy="1025" r="5" fill="white"/>
+</g>
+<g id="stop-group-chestnut-hill">
+<text id="label-chestnut-hill" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="492.203" y="1064.52">Chestnut Hill</tspan></text>
+<circle id="stop-chestnut-hill" cx="612" cy="1059" r="5" fill="white"/>
+</g>
+<g id="stop-group-newton-highlands">
+<text id="label-newton-highlands" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="385.031" y="1132.52">Newton Highlands</tspan></text>
+<circle id="stop-newton-highlands" cx="544" cy="1127" r="5" fill="white"/>
+</g>
+<g id="stop-group-eliot">
+<text id="label-eliot" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="449.844" y="1166.52">Eliot</tspan></text>
+<circle id="stop-eliot" cx="510" cy="1161" r="5" fill="white"/>
+</g>
+<g id="stop-group-waban">
+<text id="label-waban" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="396.844" y="1200.52">Waban</tspan></text>
+<circle id="stop-waban" cx="476" cy="1195" r="5" fill="white"/>
+</g>
+<g id="stop-group-woodland">
+<text id="label-woodland" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="341.172" y="1234.52">Woodland</tspan></text>
+<circle id="stop-woodland" cx="442" cy="1229" r="5" fill="white"/>
+</g>
+<g id="stop-group-newton-centre">
+<text id="label-newton-centre" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="442.188" y="1098.52">Newton Centre</tspan></text>
+<circle id="stop-newton-centre" cx="578" cy="1093" r="5" fill="white"/>
+</g>
+<g id="stop-group-riverside">
+<g id="lable-group-riverside">
+<text id="label-riverside" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="280.934" y="1278.71">RIVERSIDE</tspan></text>
+<g id="label-green-line-d">
+<g id="label-green-line_3">
+<g clip-path="url(#clip5_0_1)">
+<path d="M311 1299C311 1292.37 316.373 1287 323 1287H348C354.627 1287 360 1292.37 360 1299V1299C360 1305.63 354.627 1311 348 1311H323C316.373 1311 311 1305.63 311 1299V1299Z" fill="#42844E"/>
+<text id="GL_3" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="322.993" y="1305.21">GL</tspan></text>
+</g>
+</g>
+<g id="label-d">
+<path d="M366 1286C373.18 1286 379 1291.82 379 1299C379 1306.18 373.18 1312 366 1312C358.82 1312 353 1306.18 353 1299C353 1291.82 358.82 1286 366 1286Z" fill="#42844E"/>
+<path d="M366 1286C373.18 1286 379 1291.82 379 1299C379 1306.18 373.18 1312 366 1312C358.82 1312 353 1306.18 353 1299C353 1291.82 358.82 1286 366 1286Z" stroke="white" stroke-width="2"/>
+<text id="D" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="359.496" y="1305.21">D</tspan></text>
+</g>
+</g>
+</g>
+<circle id="stop-riverside_2" cx="399" cy="1271" r="11" fill="white" stroke="#42844E" stroke-width="4"/>
+</g>
+<path id="line-green-union-square-path" d="M1177 468L1252.5 467.5" stroke="#42844E" stroke-width="14" stroke-linecap="round"/>
+<g id="stop-group-union-square">
+<g id="label-group-union-square">
+<text id="label-union-square" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1061.93" y="474.709">UNION SQ</tspan></text>
+<g id="label-green-line-d_2">
+<g id="label-green-line_4">
+<g clip-path="url(#clip6_0_1)">
+<path d="M1084 495C1084 488.373 1089.37 483 1096 483H1121C1127.63 483 1133 488.373 1133 495V495C1133 501.627 1127.63 507 1121 507H1096C1089.37 507 1084 501.627 1084 495V495Z" fill="#42844E"/>
+<text id="GL_4" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1095.99" y="501.209">GL</tspan></text>
+</g>
+</g>
+<g id="label-green-line-d_3">
+<path d="M1139 482C1146.18 482 1152 487.82 1152 495C1152 502.18 1146.18 508 1139 508C1131.82 508 1126 502.18 1126 495C1126 487.82 1131.82 482 1139 482Z" fill="#42844E"/>
+<path d="M1139 482C1146.18 482 1152 487.82 1152 495C1152 502.18 1146.18 508 1139 508C1131.82 508 1126 502.18 1126 495C1126 487.82 1131.82 482 1139 482Z" stroke="white" stroke-width="2"/>
+<text id="D_2" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1132.5" y="501.209">D</tspan></text>
+</g>
+</g>
+</g>
+<circle id="stop-union-square" cx="1168" cy="467" r="11" fill="white" stroke="#42844E" stroke-width="4"/>
+</g>
+</g>
+<g id="line-green-c">
+<path id="line-green-c-path" d="M863.555 802.955C866.292 805.686 870.724 805.681 873.455 802.945C876.186 800.208 876.181 795.776 873.445 793.045L868.5 798L863.555 802.955ZM798.5 788.507L793.555 793.462L793.653 793.559L793.754 793.652L798.5 788.507ZM702 741.601L697.05 736.652V736.652L702 741.601ZM371.05 1062.65C368.317 1065.39 368.317 1069.82 371.05 1072.55C373.784 1075.28 378.216 1075.28 380.95 1072.55L376 1067.6L371.05 1062.65ZM751.5 741.601L756.445 736.647C756.396 736.598 756.347 736.551 756.298 736.504L751.5 741.601ZM868.5 798L873.445 793.045C872.281 791.884 871.019 791.448 870.72 791.343C870.224 791.17 869.797 791.079 869.552 791.032C869.046 790.935 868.565 790.888 868.235 790.862C867.536 790.805 866.694 790.777 865.836 790.761C864.092 790.727 861.675 790.729 858.92 790.726C853.328 790.72 845.97 790.693 838.276 790.334C830.546 789.974 822.69 789.289 816.086 788.017C809.092 786.67 804.926 784.912 803.246 783.362L798.5 788.507L793.754 793.652C798.574 798.099 806.267 800.384 813.439 801.765C821.001 803.221 829.621 803.947 837.625 804.319C845.664 804.694 853.298 804.72 858.905 804.726C861.751 804.729 863.986 804.727 865.564 804.758C866.367 804.774 866.855 804.796 867.105 804.816C867.25 804.828 867.148 804.826 866.921 804.783C866.815 804.762 866.502 804.7 866.095 804.557C865.883 804.483 864.683 804.08 863.555 802.955L868.5 798ZM702 741.601L697.05 736.652L371.05 1062.65L376 1067.6L380.95 1072.55L706.95 746.551L702 741.601ZM798.5 788.507L803.445 783.552L756.445 736.647L751.5 741.601L746.555 746.556L793.555 793.462L798.5 788.507ZM751.5 741.601L756.298 736.504C751.259 731.762 742.444 726.15 731.849 724.486C720.848 722.758 708.318 725.384 697.05 736.652L702 741.601L706.95 746.551C714.882 738.619 722.852 737.245 729.676 738.317C736.906 739.452 743.241 743.441 746.702 746.699L751.5 741.601Z" fill="#42844E"/>
+<g id="stop-group-kent-street">
+<text id="label-kent-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="639.484" y="736.52">Kent St</tspan></text>
+<circle id="stop-kent-street" cx="725" cy="731" r="5" fill="white"/>
+</g>
+<g id="stop-group-st-paul-street">
+<text id="label-st-paul-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="581.344" y="762.52">St. Paul St</tspan></text>
+<circle id="stop-st-paul-street" cx="686" cy="757" r="5" fill="white"/>
+</g>
+<g id="stop-group-coolidge-corner">
+<text id="label-coolidge-corner" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="507.391" y="796.52">Coolidge Corner</tspan></text>
+<circle id="stop-coolidge-corner" cx="653" cy="791" r="5" fill="white"/>
+</g>
+<g id="stop-group-summit-ave">
+<text id="label-summit-ave" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="503.875" y="830.52">Summit Ave</tspan></text>
+<circle id="stop-summit-ave" cx="618" cy="825" r="5" fill="white"/>
+</g>
+<g id="stop-group-brandon-hall">
+<text id="label-brandon-hall" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="462.422" y="864.52">Brandon Hall</tspan></text>
+<circle id="stop-brandon-hall" cx="584" cy="859" r="5" fill="white"/>
+</g>
+<g id="stop-group-fairbanks-street">
+<text id="label-fairbanks-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="431.125" y="898.52">Fairbanks St</tspan></text>
+<circle id="stop-fairbanks-street" cx="550" cy="893" r="5" fill="white"/>
+</g>
+<g id="stop-group-washington-square">
+<text id="label-washington-square" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="378.984" y="932.52">Washington Sq</tspan></text>
+<circle id="stop-washington-square" cx="516" cy="927" r="5" fill="white"/>
+</g>
+<g id="stop-group-tappan-street">
+<text id="label-tappan-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="380.875" y="966.52">Tappan St</tspan></text>
+<circle id="stop-tappan-street" cx="482" cy="961" r="5" fill="white"/>
+</g>
+<g id="stop-group-dean-road">
+<text id="label-dean-road" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="355.797" y="1000.52">Dean Rd</tspan></text>
+<circle id="stop-dean-road" cx="448" cy="995" r="5" fill="white"/>
+</g>
+<g id="stop-group-englewood-ave">
+<text id="label-englewood-ave" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="275.891" y="1034.52">Englewood Ave</tspan></text>
+<circle id="stop-englewood-ave" cx="415" cy="1029" r="5" fill="white"/>
+</g>
+<g id="stop-group-hawes-street">
+<text id="label-hawes-street" transform="translate(685 805.104) rotate(-45)" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="0" y="14.5195">Hawes St</tspan></text>
+<circle id="stop-hawes-street" cx="756.468" cy="746.364" r="5" fill="white"/>
+</g>
+<g id="stop-group-saint-mary-s-street">
+<text id="label-saint-mary-s-street" transform="translate(695 846.66) rotate(-45)" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="0" y="14.5195">St. Mary&#x2019;s St</tspan></text>
+<circle id="stop-saint-mary-s-street" cx="782.024" cy="772.364" r="5" fill="white"/>
+</g>
+<g id="stop-group-cleveland-circle">
+<g id="label-group-cleveland-circle">
+<text id="label-cleveland-circle" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="240.943" y="1078.71">CLEVELAND&#10;</tspan><tspan x="283.957" y="1099.71">CIRCLE</tspan></text>
+<g id="label-green-line-c">
+<g id="label-green-line_5">
+<g clip-path="url(#clip7_0_1)">
+<path d="M284 1120C284 1113.37 289.373 1108 296 1108H321C327.627 1108 333 1113.37 333 1120V1120C333 1126.63 327.627 1132 321 1132H296C289.373 1132 284 1126.63 284 1120V1120Z" fill="#42844E"/>
+<text id="GL_5" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="295.993" y="1126.21">GL</tspan></text>
+</g>
+</g>
+<g id="label-c">
+<path d="M339 1107C346.18 1107 352 1112.82 352 1120C352 1127.18 346.18 1133 339 1133C331.82 1133 326 1127.18 326 1120C326 1112.82 331.82 1107 339 1107Z" fill="#42844E"/>
+<path d="M339 1107C346.18 1107 352 1112.82 352 1120C352 1127.18 346.18 1133 339 1133C331.82 1133 326 1127.18 326 1120C326 1112.82 331.82 1107 339 1107Z" stroke="white" stroke-width="2"/>
+<text id="C" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="332.496" y="1126.21">C</tspan></text>
+</g>
+</g>
+</g>
+<circle id="stop-cleveland-circle" cx="372" cy="1071" r="11" fill="white" stroke="#42844E" stroke-width="4"/>
+</g>
+</g>
+<g id="line-green-b">
+<path id="line-green-b-path" d="M872 796L671.5 595.5C663 587.5 641.2 576.3 622 595.5C602.8 614.7 387 830.5 322 895.5" stroke="#42844E" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="stop-group-harvard-ave">
+<text id="label-harvard-ave" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="512.188" y="594.52">Harvard Ave</tspan></text>
+<circle id="stop-harvard-ave" cx="629" cy="589" r="5" fill="white"/>
+</g>
+<g id="stop-group-griggs-street">
+<text id="label-griggs-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="502.266" y="624.52">Griggs St</tspan></text>
+<circle id="stop-griggs-street" cx="598" cy="619" r="5" fill="white"/>
+</g>
+<g id="stop-group-packards-corner">
+<circle id="stop-packards-corner" cx="669" cy="593" r="5" fill="white"/>
+<text id="label-packards-corner" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="698.609" y="598.52">Packard&#x2019;s Corner</tspan></text>
+</g>
+<g id="stop-group-babcock-street">
+<circle id="stop-babcock-street" cx="696" cy="619" r="5" fill="white"/>
+<text id="label-babcock-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="725.031" y="624.52">Babcock St</tspan></text>
+</g>
+<g id="stop-group-amory-street">
+<circle id="stop-amory-street" cx="721" cy="645" r="5" fill="white"/>
+<text id="label-amory-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="750.188" y="650.52">Amory St</tspan></text>
+</g>
+<g id="stop-group-boston-university-central">
+<circle id="stop-boston-university-central" cx="747" cy="671" r="5" fill="white"/>
+<text id="label-boston-university-central" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="776.688" y="676.52">BU Central</tspan></text>
+</g>
+<g id="stop-group-boston-university-east">
+<circle id="stop-boston-university-east" cx="774" cy="697" r="5" fill="white"/>
+<text id="label-boston-university-east" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="803.281" y="702.52">BU East</tspan></text>
+</g>
+<g id="stop-group-blandford-street">
+<circle id="stop-blandford-street" cx="799" cy="723" r="5" fill="white"/>
+<text id="label-blandford-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="828.875" y="728.52">Blandford St</tspan></text>
+</g>
+<g id="stop-group-allston-street">
+<text id="label-allston-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="467.359" y="658.52">Allston St</tspan></text>
+<circle id="stop-allston-street" cx="564" cy="653" r="5" fill="white"/>
+</g>
+<g id="stop-group-warren-street">
+<text id="label-warren-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="429.516" y="692.52">Warren St</tspan></text>
+<circle id="stop-warren-street" cx="530" cy="687" r="5" fill="white"/>
+</g>
+<g id="stop-group-washington-street">
+<text id="label-washington-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="363.438" y="726.52">Washington St</tspan></text>
+<circle id="stop-washington-street" cx="496" cy="721" r="5" fill="white"/>
+</g>
+<g id="stop-group-sutherland-road">
+<text id="label-sutherland-road" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="330.625" y="760.52">Sutherland Rd</tspan></text>
+<circle id="stop-sutherland-road" cx="462" cy="755" r="5" fill="white"/>
+</g>
+<g id="stop-group-chiswick-road">
+<text id="label-chiswick-road" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="310.922" y="794.52">Chiswick Rd</tspan></text>
+<circle id="stop-chiswick-road" cx="428" cy="789" r="5" fill="white"/>
+</g>
+<g id="stop-group-chestnut-hill-ave">
+<text id="label-chestnut-hill-ave" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="243.328" y="828.52">Chestnut Hill Ave</tspan></text>
+<circle id="stop-chestnut-hill-ave" cx="394" cy="823" r="5" fill="white"/>
+</g>
+<g id="stop-group-south-street">
+<text id="label-south-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="269.578" y="862.52">South St</tspan></text>
+<circle id="stop-south-street" cx="360" cy="857" r="5" fill="white"/>
+</g>
+<g id="stop-group-boston-college">
+<g id="label-group-boston-college">
+<text id="label-boston-college" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="219.271" y="906.709">BOSTON </tspan><tspan x="208.953" y="927.709">COLLEGE</tspan></text>
+<g id="label-green-line-b">
+<g id="label-green-line_6">
+<g clip-path="url(#clip8_0_1)">
+<path d="M229 948C229 941.373 234.373 936 241 936H266C272.627 936 278 941.373 278 948V948C278 954.627 272.627 960 266 960H241C234.373 960 229 954.627 229 948V948Z" fill="#42844E"/>
+<text id="GL_6" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="240.993" y="954.209">GL</tspan></text>
+</g>
+</g>
+<g id="label-b">
+<path d="M284 935C291.18 935 297 940.82 297 948C297 955.18 291.18 961 284 961C276.82 961 271 955.18 271 948C271 940.82 276.82 935 284 935Z" fill="#42844E"/>
+<path d="M284 935C291.18 935 297 940.82 297 948C297 955.18 291.18 961 284 961C276.82 961 271 955.18 271 948C271 940.82 276.82 935 284 935Z" stroke="white" stroke-width="2"/>
+<text id="B" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="277.496" y="954.209">B</tspan></text>
+</g>
+</g>
+</g>
+<circle id="stop-boston-college" cx="317" cy="899" r="11" fill="white" stroke="#42844E" stroke-width="4"/>
+</g>
+</g>
+<g id="line-green-trunk">
+<path id="line-green-trunk-path" d="M865 797.5H1149.5L1357 609.5V572L1329 543L1252.5 466.5" stroke="#42844E" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="stop-group-lechmere">
+<text id="label-lechmere" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1182.81" y="502.52">Lechmere</tspan></text>
+<circle id="stop-lechmere" cx="1283" cy="497" r="5" fill="white"/>
+</g>
+<g id="stop-group-science-park-west-end">
+<text id="label-science-park-west-end" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1131.11" y="548.52">Science Park/West End</tspan></text>
+<circle id="stop-science-park-west-end" cx="1328" cy="543" r="5" fill="white"/>
+</g>
+<g id="stop-group-boylston">
+<circle id="stop-boylston" cx="1149.86" cy="797" r="5" fill="white"/>
+<text id="label-boylston" transform="translate(1098.29 856.841) rotate(-45)" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="0.59375" y="14.5195">Boylston</tspan></text>
+</g>
+<g id="stop-group-arlington">
+<circle id="stop-arlington" cx="1091.86" cy="797" r="5" fill="white"/>
+<text id="label-arlington" transform="translate(1038.88 858.255) rotate(-45)" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="0.796875" y="14.5195">Arlington</tspan></text>
+</g>
+<g id="stop-group-copley">
+<text id="label-copley" transform="translate(1016 768.355) rotate(-45)" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="0.15625" y="14.5195">Copley</tspan></text>
+<circle id="stop-copley" cx="1021" cy="797.083" r="5" fill="white"/>
+</g>
+<g id="stop-group-kenmore">
+<text id="label-kenmore" transform="translate(890 767.962) rotate(-45)" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="0.046875" y="14.5195">Kenmore</tspan></text>
+<circle id="stop-kenmore" cx="895" cy="796.69" r="5" fill="white"/>
+</g>
+<g id="stop-group-hynes-convention-center">
+<text id="label-hynes-convention-center" transform="translate(954 755.66) rotate(-45)" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="0" y="14.5195">Hynes &#x2028;</tspan><tspan x="0" y="32.5195">Convention Ctr</tspan></text>
+<circle id="stop-hynes-convention-center" cx="959" cy="797.116" r="5" fill="white"/>
+</g>
+</g>
+</g>
+<g id="line-orange">
+<path id="line-orange-path" d="M1357 224V741L834.5 1263.5" stroke="#D48E3E" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="stop-group-chinatown">
+<circle id="stop-chinatown" cx="1207" cy="891" r="5" fill="white"/>
+<text id="label-chinatown" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1236.33" y="896.52">Chinatown</tspan></text>
+</g>
+<g id="stop-group-tufts-medical-center">
+<circle id="stop-tufts-medical-center" cx="1166" cy="933" r="5" fill="white"/>
+<text id="label-tufts-medical-center" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1195.56" y="938.52">Tufts Medical Ctr</tspan></text>
+</g>
+<g id="stop-group-back-bay">
+<circle id="stop-back-bay" cx="1123" cy="975" r="5" fill="white"/>
+<text id="label-back-bay" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1152.39" y="980.52">Back Bay</tspan></text>
+</g>
+<g id="stop-group-massachusetts-ave">
+<circle id="stop-massachusetts-ave" cx="1082" cy="1017" r="5" fill="white"/>
+<text id="label-massachusetts-ave" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1111.44" y="1022.52">Mass. Ave</tspan></text>
+</g>
+<g id="stop-group-ruggles">
+<circle id="stop-ruggles" cx="1039" cy="1059" r="5" fill="white"/>
+<text id="label-ruggles" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1068.25" y="1064.52">Ruggles</tspan></text>
+</g>
+<g id="stop-group-roxbury-crossing">
+<circle id="stop-roxbury-crossing" cx="997" cy="1101" r="5" fill="white"/>
+<text id="label-roxbury-crossing" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1026.77" y="1106.52">Roxbury Crossing</tspan></text>
+</g>
+<g id="stop-group-jackson-square">
+<circle id="stop-jackson-square" cx="955" cy="1143" r="5" fill="white"/>
+<text id="label-jackson-square" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="984.25" y="1148.52">Jackson Sq</tspan></text>
+</g>
+<g id="stop-group-stony-brook">
+<circle id="stop-stony-brook" cx="913" cy="1185" r="5" fill="white"/>
+<text id="label-stony-brook" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="942.797" y="1190.52">Stony Brook</tspan></text>
+</g>
+<g id="stop-group-green-street">
+<circle id="stop-green-street" cx="871" cy="1227" r="5" fill="white"/>
+<text id="label-green-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="900.922" y="1232.52">Green St</tspan></text>
+</g>
+<g id="stop-group-malden-center">
+<circle id="stop-malden-center" cx="1357" cy="284" r="5" fill="white"/>
+<text id="label-malden-center" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1378" y="289.52">Malden Center</tspan></text>
+</g>
+<g id="stop-group-wellington">
+<circle id="stop-wellington" cx="1357" cy="337" r="5" fill="white"/>
+<text id="label-wellington" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1378" y="342.52">Wellington</tspan></text>
+</g>
+<g id="stop-group-assembly">
+<circle id="stop-assembly" cx="1357" cy="390" r="5" fill="white"/>
+<text id="label-assembly" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1378" y="395.52">Assembly</tspan></text>
+</g>
+<g id="stop-group-community-college">
+<circle id="stop-community-college" cx="1357" cy="496" r="5" fill="white"/>
+<text id="label-community-college" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1378" y="501.52">Community College</tspan></text>
+</g>
+<g id="stop-group-sullivan-square">
+<circle id="stop-sullivan-square" cx="1357" cy="443" r="5" fill="white"/>
+<text id="label-sullivan-square" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1378" y="448.52">Sullivan Sq</tspan></text>
+</g>
+<g id="stop-group-oak-grove">
+<g id="label-group-oak-grove">
+<g id="label-orange-line">
+<g clip-path="url(#clip9_0_1)">
+<path d="M1317 166C1317 159.373 1322.37 154 1329 154H1354C1360.63 154 1366 159.373 1366 166V166C1366 172.627 1360.63 178 1354 178H1329C1322.37 178 1317 172.627 1317 166V166Z" fill="#D48E3E"/>
+<text id="OL" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1328.99" y="172.209">OL</tspan></text>
+</g>
+</g>
+<text id="label-oak-grove" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1255" y="198.709">OAK GROVE</tspan></text>
+</g>
+<circle id="stop-oak-grove" cx="1357" cy="224" r="11" fill="white" stroke="#D48E3E" stroke-width="4"/>
+</g>
+<g id="stop-group-forest-hills">
+<circle id="stop-forest-hills" cx="835" cy="1263" r="11" fill="white" stroke="#D48E3E" stroke-width="4"/>
+<g id="label-group-forest-hills">
+<text id="label-forest-hills" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="856" y="1270.71">FOREST HILLS</tspan></text>
+<g id="label-orange-line_2">
+<g clip-path="url(#clip10_0_1)">
+<path d="M856 1290C856 1283.37 861.373 1278 868 1278H893C899.627 1278 905 1283.37 905 1290V1290C905 1296.63 899.627 1302 893 1302H868C861.373 1302 856 1296.63 856 1290V1290Z" fill="#D48E3E"/>
+<text id="OL_2" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="867.993" y="1296.21">OL</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="line-blue">
+<path id="line-blue-path" d="M1252 633L1357 738L1802 293" stroke="#2E4980" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="stop-group-aquarium">
+<circle id="stop-aquarium" cx="1415" cy="680" r="5" fill="white"/>
+<text id="label-aquarium" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1444.48" y="685.52">Aquarium</tspan></text>
+</g>
+<g id="stop-group-maverick">
+<circle id="stop-maverick" cx="1510" cy="585" r="5" fill="white"/>
+<text id="label-maverick" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1539.97" y="590.52">Maverick</tspan></text>
+</g>
+<g id="stop-group-airport">
+<circle id="stop-airport" cx="1552" cy="543" r="5" fill="white"/>
+<text id="label-airport" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1581.84" y="548.52">Airport</tspan></text>
+</g>
+<g id="stop-group-wood-island">
+<circle id="stop-wood-island" cx="1594" cy="501" r="5" fill="white"/>
+<text id="label-wood-island" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1623.27" y="506.52">Wood Island</tspan></text>
+</g>
+<g id="stop-group-orient-heights">
+<circle id="stop-orient-heights" cx="1636" cy="459" r="5" fill="white"/>
+<text id="label-orient-heights" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1665.64" y="464.52">Orient Heights</tspan></text>
+</g>
+<g id="stop-group-suffolk-downs">
+<circle id="stop-suffolk-downs" cx="1678" cy="417" r="5" fill="white"/>
+<text id="label-suffolk-downs" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1707.94" y="422.52">Suffolk Downs</tspan></text>
+</g>
+<g id="stop-group-beachmont">
+<circle id="stop-beachmont" cx="1720" cy="375" r="5" fill="white"/>
+<text id="label-beachmont" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1749.02" y="380.52">Beachmont</tspan></text>
+</g>
+<g id="stop-group-revere-beach">
+<circle id="stop-revere-beach" cx="1761" cy="333" r="5" fill="white"/>
+<text id="label-revere-beach" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1790.55" y="338.52">Revere Beach</tspan></text>
+</g>
+<g id="stop-group-bowdoin">
+<g id="label-group-bowdoin">
+<g id="label-blue-line">
+<g clip-path="url(#clip11_0_1)">
+<path d="M1207 575C1207 568.373 1212.37 563 1219 563H1244C1250.63 563 1256 568.373 1256 575V575C1256 581.627 1250.63 587 1244 587H1219C1212.37 587 1207 581.627 1207 575V575Z" fill="#2E4980"/>
+<text id="BL" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1219.49" y="581.209">BL</tspan></text>
+</g>
+</g>
+<text id="label-bowdoin" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1166" y="607.709">BOWDOIN</tspan></text>
+</g>
+<circle id="stop-bowdoin" cx="1247" cy="627" r="11" fill="white" stroke="#2E4980" stroke-width="4"/>
+</g>
+<g id="stop-group-wonderland">
+<g id="label-group-wonderland">
+<g id="label-blue-line_2">
+<g clip-path="url(#clip12_0_1)">
+<path d="M1764 231C1764 224.373 1769.37 219 1776 219H1801C1807.63 219 1813 224.373 1813 231V231C1813 237.627 1807.63 243 1801 243H1776C1769.37 243 1764 237.627 1764 231V231Z" fill="#2E4980"/>
+<text id="BL_2" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1776.49" y="237.209">BL</tspan></text>
+</g>
+</g>
+<text id="label-wonderland" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1680" y="263.709">WONDERLAND</tspan></text>
+</g>
+<circle id="stop-wonderland" cx="1804" cy="289" r="11" fill="white" stroke="#2E4980" stroke-width="4"/>
+</g>
+<g id="label-wonderland_2">
+<g id="label-blue-line_3">
+<g clip-path="url(#clip13_0_1)">
+<path d="M1764 231C1764 224.373 1769.37 219 1776 219H1801C1807.63 219 1813 224.373 1813 231V231C1813 237.627 1807.63 243 1801 243H1776C1769.37 243 1764 237.627 1764 231V231Z" fill="#2E4980"/>
+<text id="BL_3" fill="white" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1776.49" y="237.209">BL</tspan></text>
+</g>
+</g>
+<text id="WONDERLAND" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1680" y="263.709">WONDERLAND</tspan></text>
+</g>
+</g>
+<g id="shared-stops">
+<g id="stop-group-government-center">
+<text id="label-government-center" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1222.62" y="669.52">Gov&#x2019;t&#10;</tspan><tspan x="1211.94" y="687.52">Center</tspan></text>
+<circle id="stop-government-center" cx="1289" cy="670" r="6" fill="white" stroke="black" stroke-width="2"/>
+</g>
+<g id="stop-group-north-station">
+<circle id="stop-north-station" cx="1357" cy="571" r="6" fill="white" stroke="black" stroke-width="2"/>
+<text id="label-north-station" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1378" y="576.52">North Station</tspan></text>
+</g>
+<g id="stop-group-haymarket">
+<circle id="stop-haymarket" cx="1357" cy="608" r="6" fill="white" stroke="black" stroke-width="2"/>
+<text id="label-haymarket" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1378" y="613.52">Haymarket</tspan></text>
+</g>
+<g id="stop-group-park-street">
+<text id="label-park-street" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1120.92" y="728.52">Park Street</tspan></text>
+<circle id="stop-park-street" cx="1230" cy="724" r="6" fill="white" stroke="black" stroke-width="2"/>
+</g>
+<g id="stop-group-downtown-crossing">
+<circle id="stop-downtown-crossing" cx="1302" cy="796" r="6" fill="white" stroke="black" stroke-width="2"/>
+<text id="label-downtown-crossing" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1331" y="801.52">Downtown Crossing</tspan></text>
+</g>
+<g id="stop-group-state">
+<text id="label-state" fill="black" style="white-space: pre" xml:space="preserve" font-family="Helvetica" font-size="16" letter-spacing="0em"><tspan x="1290.61" y="740.52">State</tspan></text>
+<circle id="stop-state" cx="1357" cy="736" r="6" fill="white" stroke="black" stroke-width="2"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<path d="M1665 1551C1665 1544.37 1670.37 1539 1677 1539H1702C1708.63 1539 1714 1544.37 1714 1551V1551C1714 1557.63 1708.63 1563 1702 1563H1677C1670.37 1563 1665 1557.63 1665 1551V1551Z" fill="white"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<path d="M1376 1439C1376 1432.37 1381.37 1427 1388 1427H1413C1419.63 1427 1425 1432.37 1425 1439V1439C1425 1445.63 1419.63 1451 1413 1451H1388C1381.37 1451 1376 1445.63 1376 1439V1439Z" fill="white"/>
+</clipPath>
+<clipPath id="clip2_0_1">
+<path d="M767 330C767 323.373 772.373 318 779 318H804C810.627 318 816 323.373 816 330V330C816 336.627 810.627 342 804 342H779C772.373 342 767 336.627 767 330V330Z" fill="white"/>
+</clipPath>
+<clipPath id="clip3_0_1">
+<path d="M594 1247C594 1240.37 599.373 1235 606 1235H631C637.627 1235 643 1240.37 643 1247V1247C643 1253.63 637.627 1259 631 1259H606C599.373 1259 594 1253.63 594 1247V1247Z" fill="white"/>
+</clipPath>
+<clipPath id="clip4_0_1">
+<path d="M990 182C990 175.373 995.373 170 1002 170H1027C1033.63 170 1039 175.373 1039 182V182C1039 188.627 1033.63 194 1027 194H1002C995.373 194 990 188.627 990 182V182Z" fill="white"/>
+</clipPath>
+<clipPath id="clip5_0_1">
+<path d="M311 1299C311 1292.37 316.373 1287 323 1287H348C354.627 1287 360 1292.37 360 1299V1299C360 1305.63 354.627 1311 348 1311H323C316.373 1311 311 1305.63 311 1299V1299Z" fill="white"/>
+</clipPath>
+<clipPath id="clip6_0_1">
+<path d="M1084 495C1084 488.373 1089.37 483 1096 483H1121C1127.63 483 1133 488.373 1133 495V495C1133 501.627 1127.63 507 1121 507H1096C1089.37 507 1084 501.627 1084 495V495Z" fill="white"/>
+</clipPath>
+<clipPath id="clip7_0_1">
+<path d="M284 1120C284 1113.37 289.373 1108 296 1108H321C327.627 1108 333 1113.37 333 1120V1120C333 1126.63 327.627 1132 321 1132H296C289.373 1132 284 1126.63 284 1120V1120Z" fill="white"/>
+</clipPath>
+<clipPath id="clip8_0_1">
+<path d="M229 948C229 941.373 234.373 936 241 936H266C272.627 936 278 941.373 278 948V948C278 954.627 272.627 960 266 960H241C234.373 960 229 954.627 229 948V948Z" fill="white"/>
+</clipPath>
+<clipPath id="clip9_0_1">
+<path d="M1317 166C1317 159.373 1322.37 154 1329 154H1354C1360.63 154 1366 159.373 1366 166V166C1366 172.627 1360.63 178 1354 178H1329C1322.37 178 1317 172.627 1317 166V166Z" fill="white"/>
+</clipPath>
+<clipPath id="clip10_0_1">
+<path d="M856 1290C856 1283.37 861.373 1278 868 1278H893C899.627 1278 905 1283.37 905 1290V1290C905 1296.63 899.627 1302 893 1302H868C861.373 1302 856 1296.63 856 1290V1290Z" fill="white"/>
+</clipPath>
+<clipPath id="clip11_0_1">
+<path d="M1207 575C1207 568.373 1212.37 563 1219 563H1244C1250.63 563 1256 568.373 1256 575V575C1256 581.627 1250.63 587 1244 587H1219C1212.37 587 1207 581.627 1207 575V575Z" fill="white"/>
+</clipPath>
+<clipPath id="clip12_0_1">
+<path d="M1764 231C1764 224.373 1769.37 219 1776 219H1801C1807.63 219 1813 224.373 1813 231V231C1813 237.627 1807.63 243 1801 243H1776C1769.37 243 1764 237.627 1764 231V231Z" fill="white"/>
+</clipPath>
+<clipPath id="clip13_0_1">
+<path d="M1764 231C1764 224.373 1769.37 219 1776 219H1801C1807.63 219 1813 224.373 1813 231V231C1813 237.627 1807.63 243 1801 243H1776C1769.37 243 1764 237.627 1764 231V231Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>
