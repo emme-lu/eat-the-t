@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from "react";
 import type { StopData } from "@/app/actions";
 import { lines } from "@/lib/stops";
+import { SHARED_BRANCHES } from "@/lib/shared-stops";
 import { StopCard } from "./StopCard";
 
 // ── Static lookups built from stops.ts ───────────────────────────────────────
@@ -299,8 +300,13 @@ export function MapView({ picks }: { picks: Map<string, StopData> }) {
     return { visited: visitedCount, total: seen.size };
   })();
 
-  const makeOnVisitedChange = (key: string) => (visited: boolean) =>
-    setVisitedOverrides(prev => new Map(prev).set(key, visited));
+  const makeOnVisitedChange = (branchId: string, stopId: string) => (visited: boolean) =>
+    setVisitedOverrides(prev => {
+      const next = new Map(prev);
+      const branches = SHARED_BRANCHES[stopId] ?? [branchId];
+      for (const b of branches) next.set(`${b}:${stopId}`, visited);
+      return next;
+    });
 
   return (
     <div className="fixed inset-0 overflow-hidden bg-[#FDFCF7]">
@@ -422,7 +428,7 @@ export function MapView({ picks }: { picks: Map<string, StopData> }) {
                     stopName={stop.name}
                     lineName={panelLine.name}
                     initialData={picks.get(key) ?? null}
-                    onVisitedChange={makeOnVisitedChange(key)}
+                    onVisitedChange={makeOnVisitedChange(panelLine.trunk!.id, stop.id)}
                   />
                 );
               })}
@@ -440,7 +446,7 @@ export function MapView({ picks }: { picks: Map<string, StopData> }) {
                           stopName={stop.name}
                           lineName={panelLine.name}
                           initialData={picks.get(key) ?? null}
-                          onVisitedChange={makeOnVisitedChange(key)}
+                          onVisitedChange={makeOnVisitedChange(branch.id, stop.id)}
                         />
                       );
                     })}
@@ -480,7 +486,7 @@ export function MapView({ picks }: { picks: Map<string, StopData> }) {
                 stopName={activeMeta.stopName}
                 lineName={activeMeta.lineName}
                 initialData={activeData}
-                onVisitedChange={makeOnVisitedChange(`${activeMeta.branchId}:${activeMeta.stopId}`)}
+                onVisitedChange={makeOnVisitedChange(activeMeta.branchId, activeMeta.stopId)}
               />
             </div>
           </div>

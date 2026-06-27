@@ -2,6 +2,7 @@
 
 import { revalidatePath } from "next/cache";
 import { getSupabase } from "@/lib/supabase-server";
+import { canonicalize, CANONICAL_BRANCH, SHARED_BRANCHES } from "@/lib/shared-stops";
 
 export type Restaurant = {
   place_id: string;
@@ -113,6 +114,17 @@ export async function getAllPicks(): Promise<Map<string, StopData>> {
       reviews: reviewsMap.get(key) ?? [],
     });
   }
+
+  // Propagate canonical shared-stop data to all sibling branch keys
+  for (const [stopId, branches] of Object.entries(SHARED_BRANCHES)) {
+    const canonical = CANONICAL_BRANCH[stopId];
+    const data = map.get(`${canonical}:${stopId}`);
+    if (!data) continue;
+    for (const branchId of branches) {
+      if (branchId !== canonical) map.set(`${branchId}:${stopId}`, data);
+    }
+  }
+
   return map;
 }
 
@@ -143,7 +155,7 @@ export async function savePick(
 ): Promise<void> {
   const { error } = await getSupabase().from("stop_picks").upsert(
     {
-      branch_id: branchId,
+      branch_id: canonicalize(branchId, stopId),
       stop_id: stopId,
       restaurant_place_id: restaurant.place_id,
       restaurant_name: restaurant.name,
@@ -165,7 +177,7 @@ export async function toggleVisited(
   const newVisited = !currentVisited;
   const { error } = await getSupabase().from("stop_picks").upsert(
     {
-      branch_id: branchId,
+      branch_id: canonicalize(branchId, stopId),
       stop_id: stopId,
       visited: newVisited,
       visited_at: newVisited ? new Date().toISOString() : null,
@@ -184,7 +196,7 @@ export async function savePhotoUrl(
 ): Promise<void> {
   const { error } = await getSupabase().from("stop_picks").upsert(
     {
-      branch_id: branchId,
+      branch_id: canonicalize(branchId, stopId),
       stop_id: stopId,
       visit_photo_url: photoUrl,
       updated_at: new Date().toISOString(),
@@ -204,7 +216,7 @@ export async function saveReview(
 ): Promise<void> {
   const { error } = await getSupabase().from("stop_reviews").upsert(
     {
-      branch_id: branchId,
+      branch_id: canonicalize(branchId, stopId),
       stop_id: stopId,
       reviewer,
       rating,
