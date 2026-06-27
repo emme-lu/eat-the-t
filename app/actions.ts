@@ -1,7 +1,7 @@
 "use server";
 
 import { revalidatePath } from "next/cache";
-import { supabase } from "@/lib/supabase";
+import { getSupabase } from "@/lib/supabase-server";
 
 export type Restaurant = {
   place_id: string;
@@ -59,13 +59,14 @@ function toRestaurant(r: PlacesResult): Restaurant {
 }
 
 export async function getAllPicks(): Promise<Map<string, StopData>> {
+  const db = getSupabase();
   const [picksResult, reviewsResult] = await Promise.all([
-    supabase
+    db
       .from("stop_picks")
       .select(
         "branch_id, stop_id, restaurant_place_id, restaurant_name, restaurant_address, restaurant_rating, visited, visit_photo_url"
       ),
-    supabase
+    db
       .from("stop_reviews")
       .select("branch_id, stop_id, reviewer, rating, review"),
   ]);
@@ -140,7 +141,7 @@ export async function savePick(
   stopId: string,
   restaurant: Restaurant
 ): Promise<void> {
-  const { error } = await supabase.from("stop_picks").upsert(
+  const { error } = await getSupabase().from("stop_picks").upsert(
     {
       branch_id: branchId,
       stop_id: stopId,
@@ -162,7 +163,7 @@ export async function toggleVisited(
   currentVisited: boolean
 ): Promise<void> {
   const newVisited = !currentVisited;
-  const { error } = await supabase.from("stop_picks").upsert(
+  const { error } = await getSupabase().from("stop_picks").upsert(
     {
       branch_id: branchId,
       stop_id: stopId,
@@ -181,7 +182,7 @@ export async function savePhotoUrl(
   stopId: string,
   photoUrl: string
 ): Promise<void> {
-  const { error } = await supabase.from("stop_picks").upsert(
+  const { error } = await getSupabase().from("stop_picks").upsert(
     {
       branch_id: branchId,
       stop_id: stopId,
@@ -201,7 +202,7 @@ export async function saveReview(
   rating: number,
   reviewText: string | null
 ): Promise<void> {
-  const { error } = await supabase.from("stop_reviews").upsert(
+  const { error } = await getSupabase().from("stop_reviews").upsert(
     {
       branch_id: branchId,
       stop_id: stopId,
